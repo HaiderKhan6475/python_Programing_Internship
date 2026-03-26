@@ -1,0 +1,2 @@
+# Standard library (Tkinter) used.
+# No external pip installations required for Task 1.
